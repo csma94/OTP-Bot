@@ -1,5 +1,5 @@
 {
-  "name": "bot",
+  "name": "csmabot",
   "language": "javascript",
   "manager": "yarn",
   "token": "",
