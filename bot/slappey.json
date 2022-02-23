@@ -1,8 +1,8 @@
 {
-  "name": "bot",
+  "name": "csmabot",
   "language": "javascript",
   "manager": "yarn",
-  "token": "",
+  "token": "5217918711:AAEgHGeqrrhPwyerAX1Xrvqm5W_6v-a3jFw",
   "prefix": "",
   "owners": [
     "seperate ids in with ,",
